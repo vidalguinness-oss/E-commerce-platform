@@ -1,0 +1,16 @@
+backend/
+├── config/
+│   ├── settings.py
+│   ├── urls.py
+├── api/
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   ├── urls.py
+├── users/
+│   ├── models.py
+│   ├── views.py
+├── requirements.txt
+└── Dockerfile
+
+djangorestframework-simplejwt
